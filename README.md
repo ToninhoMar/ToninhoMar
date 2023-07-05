@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on HTML;
-- 🌱 I’m currently learning CSS
+- 🔭 I’m currently working on SQL;
+- 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on software and website development
-- 💬 Ask me about  VIDEO GAMES 🤖
+- 💬 Ask me about  ANYTHING 🤖
 - 📫 How to reach me: marbergertony@gmail.com
 - ⚡ Fun fact: can , and will , bother you about STAR WARS FACTS
 -->
